@@ -106,5 +106,5 @@ Externl Drive Link: "https://drive.google.com/file/d/1GdYTZkjeT3391XOw-7rfJrFaXQ
 
 # Acknowledgements
 
-Thank you to my project supervisor, Dr. Saad Bin Agmed, for providing continuous feedback and guidance throughout the completion of this research project.
+Thank you to my project supervisor, Dr. Saad Bin Ahmed, for providing continuous feedback and guidance throughout the completion of this research project.
 
