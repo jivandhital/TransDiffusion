@@ -32,19 +32,74 @@ an occlusion-conditioned diffusion framework that separates
 visibility reasoning from generative depth modeling, enabling
 structured and interpretable reconstruction under occlusion.
 
-# Experimental Results
+# Key Ideas
+**Separate what is seen from what must be inferred**
+ - Occlusion-Aware Conditioning Tokens.
+ - Dual-Path Diffusion (Visible vs Occluded).
+ - Attention Explainability Module for Occlusion Reasoning.
+ - Occlusion-Specific Loss & Evaluation.
 
-<img width="835" height="326" alt="Result11" src="https://github.com/user-attachments/assets/c94250a0-9f0a-4a8a-ae87-4a2490352c6b" />
+**We proposed**
+ - Transformer-based occlusion reasoning module.
+ - Dual-path diffusion for visible and occluded geometry.
+ - Attention explainability for understanding hallucination.
+   
+# Experimentation
+**Datasets**
 
-# Implementation Process
-To implementation the project:
+ NYUDV2
+
+ **Evaluation Metrics**
+ 
+ RMSE (Lower is better)
+ 
+ Abs Rel (Lower is better)
+ 
+ δ₁, δ₂ accuracy (Higher is better)
+
+   **Hardware**
+   
+ GPU: NVIDIA Tesla T4
+ 
+ CPU: Kaggle / Colab default 
+ 
+ Device: cuda
+ 
+**Software**
+
+ Framework: PyTorch
+ 
+ Environment: Colab / Kaggle
+ 
+ Optimizer: AdamW
+
+ # Implementation Process
+
+ Firstly, install all the required dependencies: pip install -r requirements.txt
+  Than, run the .py file. Don't forget to update the paths to the dataset files in the code '!py TD_Final_Code.py'
+  
+**To implementation the project:**
 - Clone the repository: git clone 'https://github.com/jivandhital/TransDiffusion.git' and 
 - Download the NYUD Depth V2 dataset: Download and unzip the dataset from "https://drive.google.com/file/d/1GdYTZkjeT3391XOw-7rfJrFaXQU1zFom/view?usp=drive_link" folder
-
-   # Python Implementation
-  Firstly, install all the required dependencies: pip install -r requirements.txt
-  Than, run the .py file. Don't forget to update the paths to the dataset files in the code '!py TD_Final_Code.py'
 
 # Dataset
 
 Download the NYUD Depth V2 dataset: Download and unzip the NYUDV2 dataset from "https://drive.google.com/file/d/1GdYTZkjeT3391XOw-7rfJrFaXQU1zFom/view?usp=drive_link" folder
+ 
+# Experimental Results
+
+<img width="835" height="326" alt="Result11" src="https://github.com/user-attachments/assets/c94250a0-9f0a-4a8a-ae87-4a2490352c6b" />
+
+
+# Conclusion and Future Works
+ - Occlusion recovery requires explicit uncertainty modeling.
+ - Explicit occlusion reasoning improved reconstruction.
+ - Our framework separates observed and inferred geometry.
+
+**Future work**
+ - Multi-view extension.
+ - Improve occlusion precision and extend to full 3D representations.
+ - Evaluate on larger datasets.
+
+
+
