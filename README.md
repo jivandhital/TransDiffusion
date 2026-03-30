@@ -21,6 +21,8 @@ reasoning improves reconstruction robustness and interpretability,
 particularly near occlusion boundaries. Qualitative results
 further show meaningful occlusion masks and reduced depth
 error in occluded regions.
+
+# Methodology
 ![TransDiffusion](https://github.com/user-attachments/assets/eadc1cbb-6f6a-4348-ba75-2fbb575c7d6e)
 
 We introduced an explicit token-level occlusion prediction integrated
