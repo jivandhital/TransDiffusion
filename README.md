@@ -1,5 +1,5 @@
-# TransDiffusion
-TransDiffusion: An Occlusion-Aware Generative Framework for Monocular Depth Estimation
+# TransDiffusion: An Occlusion-Aware Generative Framework for Monocular Depth Estimation
+
 
 Reconstructing a complete 3D geometry from any
 single RGB image remains challenging due to severe occlusions
