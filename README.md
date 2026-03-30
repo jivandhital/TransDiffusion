@@ -42,4 +42,4 @@ To implementation the project:
 - Download the NYUD Depth V2 dataset: Download and unzip the dataset from "https://drive.google.com/file/d/1GdYTZkjeT3391XOw-7rfJrFaXQU1zFom/view?usp=drive_link" folder
   # Python Implementation
   Firstly, install all the required dependencies: pip install -r requirements.txt
-  Than, run the .py file. Don't forget to update the paths to the dataset files in the code '!py td_python_code.py'
+  Than, run the .py file. Don't forget to update the paths to the dataset files in the code '!py TD_Final_Code.py'
