@@ -104,5 +104,7 @@ Externl Drive Link: "https://drive.google.com/file/d/1GdYTZkjeT3391XOw-7rfJrFaXQ
  - Improve occlusion precision and extend to full 3D representations.
  - Evaluate on larger datasets.
 
+# Acknowledgements
 
+Thank you to my project supervisor, Dr. Saad Bin Agmed, for providing continuous feedback and guidance throughout the completion of this research project.
 
