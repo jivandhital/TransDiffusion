@@ -85,8 +85,8 @@ structured and interpretable reconstruction under occlusion.
 - Download the NYUD Depth V2 dataset: Download and unzip the dataset from "https://drive.google.com/file/d/1GdYTZkjeT3391XOw-7rfJrFaXQU1zFom/view?usp=drive_link" folder
 
 # Dataset
-
-Download the NYUD Depth V2 dataset: Download and unzip the NYUDV2 dataset from "https://drive.google.com/file/d/1GdYTZkjeT3391XOw-7rfJrFaXQU1zFom/view?usp=drive_link" folder
+Official Link: https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html
+Externl Drive Link: "https://drive.google.com/file/d/1GdYTZkjeT3391XOw-7rfJrFaXQU1zFom/view?usp=drive_link" folder
  
 # Experimental Results
 
