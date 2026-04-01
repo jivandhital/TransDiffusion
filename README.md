@@ -91,7 +91,12 @@ Externl Drive Link: "https://drive.google.com/file/d/1GdYTZkjeT3391XOw-7rfJrFaXQ
  
 # Experimental Results
 
-<img width="835" height="326" alt="Result11" src="https://github.com/user-attachments/assets/c94250a0-9f0a-4a8a-ae87-4a2490352c6b" />
+
+<img width="934" height="613" alt="SOTA result-modified" src="https://github.com/user-attachments/assets/78f5caa1-b5b4-41c3-b1cc-dd04498d75c8" />
+
+<img width="1669" height="651" alt="Result11" src="https://github.com/user-attachments/assets/fcbd0aa0-df32-4f7d-9a97-e52262f3d631" />
+
+<img width="1663" height="649" alt="Result22" src="https://github.com/user-attachments/assets/6167cd6f-0a61-4c6a-9822-103d63ceed11" />
 
 
 # Conclusion and Future Works
