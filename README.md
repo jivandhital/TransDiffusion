@@ -103,8 +103,8 @@ Externl Drive Link: "https://drive.google.com/file/d/1GdYTZkjeT3391XOw-7rfJrFaXQ
 # Experimental Results
 
 - Demonstrates improved reconstruction accuracy and robustness in occluded regions.
-
-<img width="934" height="613" alt="SOTA result-modified" src="https://github.com/user-attachments/assets/78f5caa1-b5b4-41c3-b1cc-dd04498d75c8" />
+  
+<img width="1168" height="633" alt="SOTA result" src="https://github.com/user-attachments/assets/4d8253ee-7b51-4dec-ae22-3a3a03250eb3" />
 
 <img width="1669" height="651" alt="Result11" src="https://github.com/user-attachments/assets/fcbd0aa0-df32-4f7d-9a97-e52262f3d631" />
 
