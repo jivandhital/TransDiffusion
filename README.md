@@ -20,7 +20,7 @@ This structured approach improves robustness, interpretability, and reconstructi
 - Diffusion-based depth reconstruction
 - Depth refinement
 
-![TransDiffusion](https://github.com/user-attachments/assets/eadc1cbb-6f6a-4348-ba75-2fbb575c7d6e)
+<img width="1672" height="941" alt="TransDiffusion_Model_Pipeline" src="https://github.com/user-attachments/assets/866a84b3-4c4c-475d-a0d6-3f36f0bdb64b" />
 
 We introduced an explicit token-level occlusion prediction integrated
 into a Vision Transformer backbone for single-image
